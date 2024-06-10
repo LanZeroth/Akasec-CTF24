@@ -22,7 +22,7 @@ To start your journey, you'll need to locate the Sanity Check Flag on their Disc
    - Pay close attention to the text and any images posted in the `#rules` channel. The challenge is subtly hidden within this content.
 
 4. **Solve the Challenge**:
-   - Follow the instructions found in the hidden clue to solve the welcome challenge and earn your 100 points.
+   - Follow the instructions found in the hidden clue to solve the challenge and earn your 100 points.
 
 Flag gotten:
 ```
@@ -35,21 +35,30 @@ We need to search for the "insanity check" flag on their Discord server again, b
 1. **Join Our Discord**:
    - Click on this invite link: [Join The Discord](https://discord.gg/ycvjdcejMw).
   
-![isanity-check2](/images/insanity2.png)
+![insanity-check2](/images/insanity2.png)
+
+![insanity-check3](/images/insanity3.png)
 
 So, I paused this challenge I was working on and moved to the Mza7aGPT challenge. There, I noticed some hidden flag messages. When I posted these messages on ChatGPT, I was looking for any extra hints.
 
-![isanity-check3](/images/insanity3.png)
-
-I tried using it for the Mza7aGPT challenge, but it didn't work. So, I guessed it must be for the Insanity Check challenge instead, and it actually worked.
+I tried using it for the Mza7aGPT challenge, but it didn't work.
 
 
-![isanity-check4](/images/insanity4.png)
+![insanity-check3](/images/insanity5.png)
+
+So, I guessed it must be for the Insanity Check challenge instead, and it actually worked.
+
+
+![insanity-check4](/images/insanity4.png)
 ```
 AKASEC{h4v3_y0u_3v3r_7h0ugh7_4b0u7_c0py1n6_4_d15c0rd_m355463?}
 ```
 
 ## Mza7aGPT  
-![mza7agpt](/images/mza7agpt.png]
-Stay tuned for updates as I discover more challenges! I'll be refining and completing this repository later. Let's make it even better! 🚀✨ #AKASECCTF
+
+![mza7agpt](/images/mza7agpt.png)
+
+Unfortunately, I wasn't able to finish as I stopped here.
+
+Stay tuned for updates as I discover more challenges! I'll be refining and completing this repository later. Let's make it even better next year! 🚀✨ #AKASECCTF
 Good luck, and have fun! 🎉
