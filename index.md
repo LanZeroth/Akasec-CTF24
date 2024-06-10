@@ -35,9 +35,9 @@ We need to search for the "insanity check" flag on their Discord server again, b
 1. **Join Our Discord**:
    - Click on this invite link: [Join The Discord](https://discord.gg/ycvjdcejMw).
   
-![insanity-check2](/images/insanity2.png)
-
 ![insanity-check3](/images/insanity3.png)
+
+![insanity-check4](/images/insanity4.png)
 
 So, I paused this challenge I was working on and moved to the Mza7aGPT challenge. There, I noticed some hidden flag messages. When I posted these messages on ChatGPT, I was looking for any extra hints.
 
@@ -49,7 +49,7 @@ I tried using it for the Mza7aGPT challenge, but it didn't work.
 So, I guessed it must be for the Insanity Check challenge instead, and it actually worked.
 
 
-![insanity-check4](/images/insanity4.png)
+
 ```
 AKASEC{h4v3_y0u_3v3r_7h0ugh7_4b0u7_c0py1n6_4_d15c0rd_m355463?}
 ```
