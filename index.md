@@ -35,18 +35,26 @@ We need to search for the "insanity check" flag on their Discord server again, b
 1. **Join Our Discord**:
    - Click on this invite link: [Join The Discord](https://discord.gg/ycvjdcejMw).
   
+So, I paused this challenge I was working on and moved to the Mza7aGPT challenge. There, I noticed some hidden flag messages.
+  
 ![insanity-check3](/images/insanity3.png)
 
+When I posted these messages on ChatGPT as I was looking for any extra hints,I got two possible flag.
+ 
 ![insanity-check4](/images/insanity4.png)
 
-So, I paused this challenge I was working on and moved to the Mza7aGPT challenge. There, I noticed some hidden flag messages. When I posted these messages on ChatGPT, I was looking for any extra hints.
-
-I tried using it for the Mza7aGPT challenge, but it didn't work.
 
 
-![insanity-check3](/images/insanity5.png)
+I tried using both flags for the Mza7aGPT challenge, but it didn't work.
 
-So, I guessed it must be for the Insanity Check challenge instead, and it actually worked.
+
+![insanity-check5](/images/insanity5.png)
+
+
+
+![insanity-check6](/images/insanity6.png)
+
+So, I guessed one must be for the Insanity Check challenge instead,when i tried the other one it actually worked.
 
 
 
